@@ -19,4 +19,6 @@
         Se score for 9 o limite de cheque especial será de R$ 5000,00 e o limite do cartão de crédito criado será de R$ 15000,00
         *As faixas de limite poder ser parametrizaveis
     
-### 4. DisponibilizaDO um endpoint em REST que liste as pessoas e outro que liste as contas e seus respectivos limites / cartões.
+### 4. DisponibilizaDO um endpoint em REST que liste as pessoas e outro que liste as contas e seus respectivos limites / cartões.]
+        http://localhost:8080/contas
+        http://localhost:8080/pessoas
